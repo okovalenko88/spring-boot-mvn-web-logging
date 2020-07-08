@@ -1,13 +1,13 @@
-package com.sap.cc.springbootskeleton;
+package com.sap.cc.greeting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootSkeletonApplication {
+public class SpringBootGreetingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootSkeletonApplication.class, args);
+		SpringApplication.run(SpringBootGreetingApplication.class, args);
 	}
 
 }
