@@ -7,3 +7,6 @@ This repository contains the code / starting points that match the topics in the
 - The code for the starting point resides directly in the top-level directory of the corresponding branch
 # spring-boot-mvn-web-logging
 from https://pages.github.tools.sap/cloud-curriculum/materials/logging/java/
+
+# Run
+mvn spring-boot:run
